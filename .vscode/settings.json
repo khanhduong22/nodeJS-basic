@@ -1,0 +1,23 @@
+{
+  "interactiveWindow.restore": true,
+
+  "terminal.integrated.persistentSessionReviveProcess": "onExitAndWindowClose",
+
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.printWidth": 80
+}

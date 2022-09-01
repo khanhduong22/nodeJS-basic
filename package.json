@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd http && nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhduong22/nodeJS-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanhduong22/nodeJS-basic/issues"
+  },
+  "homepage": "https://github.com/khanhduong22/nodeJS-basic#readme"
+}
